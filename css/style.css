@@ -263,3 +263,13 @@ h1,h2,h3{
 .logpadding{
 	padding-top: 10px;
 }
+
+.loghover1:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.loghover2:hover{
+	text-decoration: none;
+	color: #eae8e8;
+}
